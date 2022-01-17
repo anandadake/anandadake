@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-<!--
-**anandadake/anandadake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on Intelimek Systems as a software engineer
+- Look to collaborate on communities like sofware devlopment, Angular2, or Python-Flask, etc.
+- You can reach me by mailing to anandadake007@gmail.com
 
-Here are some ideas to get you started:
+### Recent works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anand's github stats](https://github-readme-stats.vercel.app/api?username=anandadake)
+* [Portfolios](https://anandadake.github.io/)
+<!-- * [Daily Leaning APP](https://daily-learning.herokuapp.com) -->
+ 
+### Github states
+[![Anand's github stats](https://github-readme-stats.vercel.app/api?username=JenHsuan)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skillsets
+* Focus on Python-Flask, Angular, Plotly etc. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandadake&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
