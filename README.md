@@ -10,7 +10,7 @@
 <!-- * [Daily Leaning APP](https://daily-learning.herokuapp.com) -->
  
 ### Github states
-[![Anand's github stats](https://github-readme-stats.vercel.app/api?username=JenHsuan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anand's github stats](https://github-readme-stats.vercel.app/api?username=anandadake)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skillsets
 * Focus on Python-Flask, Angular, Plotly etc. 
