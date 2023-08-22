@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m currently working on Intelimek Systems as a software engineer
+- I’m currently working at Intelimek Systems as a software engineer
 - Look to collaborate on communities like sofware devlopment, Angular2, or Python-Flask, etc.
 - You can reach me by mailing to anandadake007@gmail.com
 
